@@ -1,0 +1,37 @@
+.alert-danger{
+    background-color: red;
+}
+.alert{
+    color:white;
+    margin-bottom:15px;
+    text-align:left;
+}
+/* Add this to your CSS file */
+/* Add this to your CSS file */
+.custom-bg-color {
+    background-image: linear-gradient(to right, #517879, #3C5263);
+}
+/* Add this to your CSS file */
+.space-grotesk {
+    font-family: 'Space Grotesk', sans-serif;
+    color: white;
+
+}
+/* Add this to your CSS file */
+.page-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+/* Add this to your CSS file */
+.grid-border {
+    border: 2px solid #000;
+    border-radius: 10px;
+  }
+/* Add this to your CSS file */
+.col-margin {
+    margin: 10px;
+  }
+  
+
